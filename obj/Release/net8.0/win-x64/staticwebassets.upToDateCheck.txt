@@ -1,0 +1,7 @@
+wwwroot\uploads\inventario\0a60b49e-a233-4f5b-86da-f5d17bb82ab6_134036719686985654.jpg
+wwwroot\uploads\inventario\19778e2b-c7a0-4326-9594-082ac2bda7cf_134045416842170336.jpg
+wwwroot\uploads\inventario\4ff57c5f-513c-44da-9fe4-4284f01f7872_133986958591249887.jpg
+wwwroot\uploads\inventario\84a8167a-ff95-45c1-991b-a52237023e14_133994281489949143.jpg
+wwwroot\uploads\inventario\consola.jpg
+wwwroot\uploads\inventario\d5430ad3-4717-466e-93a8-794b8759fa7a_133955500231683913.jpg
+wwwroot\uploads\inventario\piano.jpg

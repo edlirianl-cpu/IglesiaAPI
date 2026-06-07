@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\api</_PublishTargetUrl>
+    <History>True|2026-05-31T04:40:25.6925802Z||;True|2026-05-29T22:35:57.3665219-04:00||;True|2026-05-29T22:28:39.8048780-04:00||;True|2026-03-21T00:41:37.2715771-04:00||;True|2026-03-19T23:20:41.1369847-04:00||;True|2026-03-19T23:14:11.7124937-04:00||;True|2026-03-15T08:26:15.9331002-04:00||;True|2026-03-15T07:56:10.4280837-04:00||;True|2026-03-15T00:07:34.3184551-04:00||;True|2026-03-15T00:01:28.8704864-04:00||;True|2026-03-10T23:51:06.7968350-04:00||;True|2026-03-10T22:44:14.5269087-04:00||;False|2026-03-10T22:42:05.2691959-04:00||;False|2026-03-10T22:36:44.5050137-04:00||;False|2026-03-10T22:28:27.2523885-04:00||;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+</Project>
